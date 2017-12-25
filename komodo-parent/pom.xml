@@ -124,7 +124,8 @@
 		<server.platform>release</server.platform>
 
 		<!-- The default version of teiid targeted for development -->
-		<teiid.version.default>8.12.11.6_4</teiid.version.default>
+		<teiid.version.default>8.12.11.6_3-redhat-3</teiid.version.default>
+		<!--teiid.version.default>10.0.1 8.12.11.6_4</teiid.version.default-->
 		<teiid.classifier.default>jboss-dist</teiid.classifier.default>
 
 		<!-- The version of server to use with testing -->
@@ -135,7 +136,7 @@
 		<test.server.name>jboss-eap-6.4</test.server.name>
 
 		<version.aesh>0.33.12.redhat-1</version.aesh>
-		<version.org.jboss.dmr>1.2.1.Final-redhat-1</version.org.jboss.dmr>
+		<version.org.jboss.dmr>1.4.1.Final-redhat-1</version.org.jboss.dmr>
 
 		<version.org.jboss.spec.jboss-javaee-6.0>1.0.0.Final</version.org.jboss.spec.jboss-javaee-6.0>
 		<version.arquillian>1.1.9.Final</version.arquillian>

@@ -57,7 +57,7 @@
 
 	<properties>
 		<rootDir>${project.basedir}</rootDir>
-		<version.teiid.modeshape>0.0.2</version.teiid.modeshape>
+		<version.teiid.modeshape>2.0.0-SNAPSHOT</version.teiid.modeshape>
 		<version.infinispan>5.2.21.Final-redhat-1</version.infinispan>
 		<version.infinispan-cachestore-leveldb>5.2.20.Final</version.infinispan-cachestore-leveldb>
 		<version.javax.servlet>3.1.0</version.javax.servlet>
